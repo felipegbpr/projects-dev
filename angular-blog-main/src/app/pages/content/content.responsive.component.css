@@ -1,0 +1,6 @@
+@media screen and (max-width:750px) {
+  .content__title > h1 {
+    font-size: 28px;
+  }
+}
+
